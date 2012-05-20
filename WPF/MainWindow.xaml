@@ -1,0 +1,9 @@
+﻿<Window x:Class="WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Defence Game" Height="650" Width="800" FontFamily="Microsoft YaHei" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow">
+	<StackPanel Name="stackPanel1" ForceCursor="False">
+		<StackPanel Height="50" Name="stackPanel2" Background="#FF5F5F5F" />
+		<Canvas Name="MapCanvas" Width="800" Height="600" Background="#FF00000A"></Canvas>
+	</StackPanel>
+</Window>

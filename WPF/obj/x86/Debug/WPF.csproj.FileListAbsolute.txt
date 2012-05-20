@@ -1,0 +1,11 @@
+f:\Defence\WPF\bin\Debug\WPF.exe
+f:\Defence\WPF\bin\Debug\WPF.pdb
+f:\Defence\WPF\obj\x86\Debug\MainWindow.baml
+f:\Defence\WPF\obj\x86\Debug\MainWindow.g.cs
+f:\Defence\WPF\obj\x86\Debug\App.g.cs
+f:\Defence\WPF\obj\x86\Debug\WPF_MarkupCompile.cache
+f:\Defence\WPF\obj\x86\Debug\WPF.g.resources
+f:\Defence\WPF\obj\x86\Debug\WPF.Properties.Resources.resources
+f:\Defence\WPF\obj\x86\Debug\WPF.csproj.GenerateResource.Cache
+f:\Defence\WPF\obj\x86\Debug\WPF.exe
+f:\Defence\WPF\obj\x86\Debug\WPF.pdb
