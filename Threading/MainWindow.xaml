@@ -1,0 +1,11 @@
+﻿<Window x:Class="Threading.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" FontFamily="Microsoft YaHei" ResizeMode="NoResize">
+	<StackPanel Name="stackPanel1">
+		<StackPanel Height="50" Name="ToolPanel" Background="#FF40FF30" VerticalAlignment="Center" HorizontalAlignment="Stretch" Orientation="Horizontal" Margin="0">
+			<Button Content="怪物" Height="23" Name="CmdMonster" Width="75" Margin="10,0,0,0" Click="CmdMonster_Click" />
+		</StackPanel>
+		<Canvas Height="261" Name="MapCanvas" Width="503" />
+	</StackPanel>
+</Window>
